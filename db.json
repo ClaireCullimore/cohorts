@@ -7,6 +7,15 @@
                 "insights": "B01R6F6BTDW/jNbu1Jt0UXj0iKBU7C9RFLDH"
             }
         },
+        
+        {
+            "name": "morris",
+            "slackHooks": {
+                "studyBuddy": ""
+                "insights": "B023CJXRWD7/t6VkRPGGtJ0Y6tXcGlVmQ8jR"
+            }
+        },
+        
         { 
             "name": "templates",
             "slackHooks": {
